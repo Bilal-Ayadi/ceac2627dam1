@@ -1,0 +1,6 @@
+id_cliente,nombre,email,ciudad,fecha_registro
+C001,Ana García,ana.garcia@email.com,Madrid,2026-01-15
+C002,Carlos López,carlos.lopez@email.com,Valencia,2026-02-03
+C003,Laura Martín,laura.martin@email.com,Barcelona,2026-02-18
+C004,David Sánchez,david.sanchez@email.com,Sevilla,2026-03-01
+C005,María Torres,maria.torres@email.com,Bilbao,2026-03-12

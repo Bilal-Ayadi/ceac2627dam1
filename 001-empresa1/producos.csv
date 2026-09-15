@@ -1,0 +1,6 @@
+id_producto,nombre,categoria,precio,stock
+P001,Portátil Pro,Informática,899.99,25
+P002,Ratón inalámbrico,Accesorios,24.99,100
+P003,Teclado mecánico,Accesorios,69.99,50
+P004,Monitor 27 pulgadas,Monitores,249.99,30
+P005,Auriculares Bluetooth,Audio,79.99,75
