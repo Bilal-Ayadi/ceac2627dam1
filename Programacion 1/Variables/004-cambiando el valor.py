@@ -1,4 +1,0 @@
-edad = input("¿cuantos años tienes?: ")
-print("tienes",edad,"años")
-edad = input("¿cuantos años tienes?: ")
-print("tienes",edad,"años")

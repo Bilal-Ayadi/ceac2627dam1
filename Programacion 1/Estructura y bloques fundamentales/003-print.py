@@ -1,2 +1,0 @@
-print("Empezamos con Python")
-
