@@ -1,0 +1,13 @@
+1.- Estructuras de selección - condicionales - establecen condiciones y ejecutamos código en base a esas condiciones.
+
+2.- Estructuras de repetición - repiten algo N veces - while y for.
+
+3.- Salto - creamos programas en los que controlamos el salto del flujo de la ejecución.
+
+4.- Control del flujo - controlamos por dónde va el programa.
+
+5.- Aserciones - provocamos errores.
+
+6.- Excepciones - controlamos qué ocurre cuando hay errores.
+
+7.- Prueba, depuración y documentación.

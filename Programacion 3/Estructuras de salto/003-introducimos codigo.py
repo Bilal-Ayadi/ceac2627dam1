@@ -12,9 +12,9 @@ print("En este programa practicamos en clase")
 while True:
   # Le enseño al usuario lo que puede hacer
 	print("1.-Insertar un registro")
-    print("2.-Leer los registros")
-    print("3.-Actualizar un registro")
-    print("4.-Eliminar un registro")
+  print("2.-Leer los registros")
+  print("3.-Actualizar un registro")
+  print("4.-Eliminar un registro")
   # Le pregunto qué quiere hacer
 	
   # Anoto su decisión y tomo una acción - la acción puede ser
